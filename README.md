@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **ranemanasi1810@gmail.com**
 
-- 👨‍💻 All of my projects are available at [ManasiRane](https://mannasiii.github.io)
+- 👨‍💻 All of my projects are available at [ManasiRane](https://github.com/mannasiii)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
