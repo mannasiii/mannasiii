@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center" style="background-color: rgb(255, 255, 36);">Hi 👋, I'm Manasi Rane</h1>
+<h1 align="center">Hi 👋, I'm Manasi Rane</h1>
 <h3 align="center">A young<span style="color: red;"> Front end developer  </span>  from India </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mannasiii&label=Profile%20views&color=0e75b6&style=flat"
         alt="mannasiii" /> </p>
