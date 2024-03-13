@@ -1,4 +1,3 @@
-
 <!--
 **mannasiii/mannasiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -59,10 +58,7 @@ stats](https://github-readme-stats.vercel.app/api?username=mannasiii&show_icons=
 <p><img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=mannasiii&show_icons=true&locale=en&layout=compact"
         alt="mannasiii" /></p>
-
-
-
-<br><br>
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://www.linkedin.com/in/manasi-rane-539a99220/" target="blank"><img align="center"
